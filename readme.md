@@ -1,6 +1,6 @@
-# Electron Course Files
+# Electron App Examples
 
-This repo contains all of the projects and files for my Electron course
+This repo contains all of the Electron app projects.
 
 * Electron Starter
 * ImageShrink App
